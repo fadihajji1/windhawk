@@ -3,6 +3,6 @@
     "workbench.editor.showTabs": true,
     "workbench.statusBar.visible": true,
     "windhawk.editedModId": "explorer-disk-bar-style",
-    "windhawk.editedModWasModified": false,
+    "windhawk.editedModWasModified": true,
     "git.enabled": true
 }

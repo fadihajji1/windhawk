@@ -91,7 +91,7 @@ HRESULT WINAPI HookedDrawThemeBackground(
         );
     }
 
-    // 🎯 Target progress bar fill parts
+    // Target progress bar fill parts
     // These are used for disk usage bars in Explorer
     if (iPartId == PP_FILL || iPartId == PP_CHUNK) {
 
